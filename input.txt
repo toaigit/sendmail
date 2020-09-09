@@ -1,0 +1,2 @@
+#  recipient@domain.com, Recipient Name
+johndoe@yahoo.com, Mr. John Doe
